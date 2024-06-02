@@ -8,6 +8,9 @@
 #include <gtx/vector_angle.hpp>
 #include <gtc/quaternion.hpp>
 #include <gtx/quaternion.hpp>
+#include <spdlog/spdlog.h>
+#include "spdlog/sinks/stdout_color_sinks.h"
+
 
 #include <string>
 #include <fstream>
